@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "OSLab_first/1.0.0": {
+        "runtime": {
+          "OSLab_first.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OSLab_first/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
