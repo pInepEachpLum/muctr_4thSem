@@ -1,0 +1,17 @@
+C:\My\PG\C#\OperationalSystems\OSLab_second\obj\Debug\net10.0-windows\OSLab_second.UI.ExplorerForm.resources
+C:\My\PG\C#\OperationalSystems\OSLab_second\obj\Debug\net10.0-windows\OSLab_second.UI.PropertiesForm.resources
+C:\My\PG\C#\OperationalSystems\OSLab_second\obj\Debug\net10.0-windows\OSLab_second.csproj.GenerateResource.cache
+C:\My\PG\C#\OperationalSystems\OSLab_second\obj\Debug\net10.0-windows\OSLab_second.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\PG\C#\OperationalSystems\OSLab_second\obj\Debug\net10.0-windows\OSLab_second.AssemblyInfoInputs.cache
+C:\My\PG\C#\OperationalSystems\OSLab_second\obj\Debug\net10.0-windows\OSLab_second.AssemblyInfo.cs
+C:\My\PG\C#\OperationalSystems\OSLab_second\obj\Debug\net10.0-windows\OSLab_second.csproj.CoreCompileInputs.cache
+C:\My\PG\C#\OperationalSystems\OSLab_second\bin\Debug\net10.0-windows\OSLab_second.exe
+C:\My\PG\C#\OperationalSystems\OSLab_second\bin\Debug\net10.0-windows\OSLab_second.deps.json
+C:\My\PG\C#\OperationalSystems\OSLab_second\bin\Debug\net10.0-windows\OSLab_second.runtimeconfig.json
+C:\My\PG\C#\OperationalSystems\OSLab_second\bin\Debug\net10.0-windows\OSLab_second.dll
+C:\My\PG\C#\OperationalSystems\OSLab_second\bin\Debug\net10.0-windows\OSLab_second.pdb
+C:\My\PG\C#\OperationalSystems\OSLab_second\obj\Debug\net10.0-windows\OSLab_second.dll
+C:\My\PG\C#\OperationalSystems\OSLab_second\obj\Debug\net10.0-windows\refint\OSLab_second.dll
+C:\My\PG\C#\OperationalSystems\OSLab_second\obj\Debug\net10.0-windows\OSLab_second.pdb
+C:\My\PG\C#\OperationalSystems\OSLab_second\obj\Debug\net10.0-windows\OSLab_second.genruntimeconfig.cache
+C:\My\PG\C#\OperationalSystems\OSLab_second\obj\Debug\net10.0-windows\ref\OSLab_second.dll

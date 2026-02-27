@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\My\\PG\\C#\\OperationalSystems\\OSLab_second\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{497C7D26-13A2-4553-AD6E-3AE094F859B1}|OSLab_second.csproj|c:\\my\\pg\\c#\\operationalsystems\\oslab_second\\ui\\explorerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497C7D26-13A2-4553-AD6E-3AE094F859B1}|OSLab_second.csproj|solutionrelative:ui\\explorerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497C7D26-13A2-4553-AD6E-3AE094F859B1}|OSLab_second.csproj|c:\\my\\pg\\c#\\operationalsystems\\oslab_second\\core\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497C7D26-13A2-4553-AD6E-3AE094F859B1}|OSLab_second.csproj|solutionrelative:core\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497C7D26-13A2-4553-AD6E-3AE094F859B1}|OSLab_second.csproj|c:\\my\\pg\\c#\\operationalsystems\\oslab_second\\ui\\propertiesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497C7D26-13A2-4553-AD6E-3AE094F859B1}|OSLab_second.csproj|solutionrelative:ui\\propertiesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497C7D26-13A2-4553-AD6E-3AE094F859B1}|OSLab_second.csproj|c:\\my\\pg\\c#\\operationalsystems\\oslab_second\\ui\\propertiesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{497C7D26-13A2-4553-AD6E-3AE094F859B1}|OSLab_second.csproj|solutionrelative:ui\\propertiesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497C7D26-13A2-4553-AD6E-3AE094F859B1}|OSLab_second.csproj|c:\\my\\pg\\c#\\operationalsystems\\oslab_second\\models\\fileitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497C7D26-13A2-4553-AD6E-3AE094F859B1}|OSLab_second.csproj|solutionrelative:models\\fileitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497C7D26-13A2-4553-AD6E-3AE094F859B1}|OSLab_second.csproj|c:\\my\\pg\\c#\\operationalsystems\\oslab_second\\ui\\explorerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{497C7D26-13A2-4553-AD6E-3AE094F859B1}|OSLab_second.csproj|solutionrelative:ui\\explorerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497C7D26-13A2-4553-AD6E-3AE094F859B1}|OSLab_second.csproj|c:\\my\\pg\\c#\\operationalsystems\\oslab_second\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497C7D26-13A2-4553-AD6E-3AE094F859B1}|OSLab_second.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PropertiesForm.cs [Design]",
+              "DocumentMoniker": "C:\\My\\PG\\C#\\OperationalSystems\\OSLab_second\\UI\\PropertiesForm.cs",
+              "RelativeDocumentMoniker": "UI\\PropertiesForm.cs",
+              "ToolTip": "C:\\My\\PG\\C#\\OperationalSystems\\OSLab_second\\UI\\PropertiesForm.cs [Design]",
+              "RelativeToolTip": "UI\\PropertiesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T21:35:19.015Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PropertiesForm.cs",
+              "DocumentMoniker": "C:\\My\\PG\\C#\\OperationalSystems\\OSLab_second\\UI\\PropertiesForm.cs",
+              "RelativeDocumentMoniker": "UI\\PropertiesForm.cs",
+              "ToolTip": "C:\\My\\PG\\C#\\OperationalSystems\\OSLab_second\\UI\\PropertiesForm.cs",
+              "RelativeToolTip": "UI\\PropertiesForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T21:30:20.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\My\\PG\\C#\\OperationalSystems\\OSLab_second\\Core\\FileManager.cs",
+              "RelativeDocumentMoniker": "Core\\FileManager.cs",
+              "ToolTip": "C:\\My\\PG\\C#\\OperationalSystems\\OSLab_second\\Core\\FileManager.cs",
+              "RelativeToolTip": "Core\\FileManager.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwDUAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T21:07:42.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExplorerForm.cs [Design]",
+              "DocumentMoniker": "C:\\My\\PG\\C#\\OperationalSystems\\OSLab_second\\UI\\ExplorerForm.cs",
+              "RelativeDocumentMoniker": "UI\\ExplorerForm.cs",
+              "ToolTip": "C:\\My\\PG\\C#\\OperationalSystems\\OSLab_second\\UI\\ExplorerForm.cs [Design]*",
+              "RelativeToolTip": "UI\\ExplorerForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T20:57:41.977Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileItem.cs",
+              "DocumentMoniker": "C:\\My\\PG\\C#\\OperationalSystems\\OSLab_second\\Models\\FileItem.cs",
+              "RelativeDocumentMoniker": "Models\\FileItem.cs",
+              "ToolTip": "C:\\My\\PG\\C#\\OperationalSystems\\OSLab_second\\Models\\FileItem.cs",
+              "RelativeToolTip": "Models\\FileItem.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T20:51:05.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExplorerForm.cs",
+              "DocumentMoniker": "C:\\My\\PG\\C#\\OperationalSystems\\OSLab_second\\UI\\ExplorerForm.cs",
+              "RelativeDocumentMoniker": "UI\\ExplorerForm.cs",
+              "ToolTip": "C:\\My\\PG\\C#\\OperationalSystems\\OSLab_second\\UI\\ExplorerForm.cs*",
+              "RelativeToolTip": "UI\\ExplorerForm.cs*",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAcwKcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T20:32:19.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\My\\PG\\C#\\OperationalSystems\\OSLab_second\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\My\\PG\\C#\\OperationalSystems\\OSLab_second\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T20:28:43.634Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
