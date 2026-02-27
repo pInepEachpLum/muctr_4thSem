@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\My\\PG\\C#\\OperationalSystems\\OSLab_second\\OSLab_second.csproj": {}
+    "C:\\My\\GitHub\\muctr_4thSem\\OperationalSystems\\Lab2\\OSLab_second\\OSLab_second.csproj": {}
   },
   "projects": {
-    "C:\\My\\PG\\C#\\OperationalSystems\\OSLab_second\\OSLab_second.csproj": {
+    "C:\\My\\GitHub\\muctr_4thSem\\OperationalSystems\\Lab2\\OSLab_second\\OSLab_second.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\My\\PG\\C#\\OperationalSystems\\OSLab_second\\OSLab_second.csproj",
+        "projectUniqueName": "C:\\My\\GitHub\\muctr_4thSem\\OperationalSystems\\Lab2\\OSLab_second\\OSLab_second.csproj",
         "projectName": "OSLab_second",
-        "projectPath": "C:\\My\\PG\\C#\\OperationalSystems\\OSLab_second\\OSLab_second.csproj",
+        "projectPath": "C:\\My\\GitHub\\muctr_4thSem\\OperationalSystems\\Lab2\\OSLab_second\\OSLab_second.csproj",
         "packagesPath": "C:\\Users\\ANDRE\\.nuget\\packages\\",
-        "outputPath": "C:\\My\\PG\\C#\\OperationalSystems\\OSLab_second\\obj\\",
+        "outputPath": "C:\\My\\GitHub\\muctr_4thSem\\OperationalSystems\\Lab2\\OSLab_second\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
